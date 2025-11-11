@@ -1,0 +1,4 @@
+测试案例1：
+提示词：a sunset over the sea, impressionism style, dappled light, thick brush strokes, <lora:Impressionism-LoRA-v1.0:0.9>
+反向提示词：low quality, blurry, sharp edges
+采样参数：DPM++ 2M Karras，步数25，分辨率512x512
